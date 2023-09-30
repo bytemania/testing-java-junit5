@@ -17,3 +17,6 @@ For questions and help:
 GitHub Issues will not be addressed.
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/circleci/8getJp5gpg6RdvpEr4MRyP/4o7MN92ek2vs6kV2gfLVNn/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/8getJp5gpg6RdvpEr4MRyP/4o7MN92ek2vs6kV2gfLVNn/tree/master)
+
+![CircleCI](https://dl.circleci.com/status-badge/img/circleci/8getJp5gpg6RdvpEr4MRyP/4o7MN92ek2vs6kV2gfLVNn/tree/master.svg?style=svg)
+
